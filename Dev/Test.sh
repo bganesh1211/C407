@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 
-source config.properties
+. config.properties
 
 
 echo "Hello $Name welcome to GIT"

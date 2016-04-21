@@ -1,6 +1,7 @@
-#!/bin/bash
+#!/usr/bin/bash
 
-. config.properties
+
+C:/Project/Source/C407/Dev/config.properties
 
 
 echo " Hello $Name welcome to GIT"
